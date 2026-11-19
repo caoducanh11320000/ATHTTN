@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+.DS_Store
+HUONG_DAN_HOANG.md
